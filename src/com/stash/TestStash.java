@@ -6,6 +6,8 @@ public class TestStash {
 		System.out.println("Hello World");
 		
 		System.out.println("Git stash pop");
+		
+		System.out.println("I live in Kyiv");
 	}
 
 }
