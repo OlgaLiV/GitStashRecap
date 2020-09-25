@@ -4,6 +4,8 @@ public class TestStash {
 	public static void main(String[] args) {
 		System.out.println("Modifiction of our code");
 		System.out.println("Hello World");
+		
+		System.out.println("Git stash pop");
 	}
 
 }
